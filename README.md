@@ -1,6 +1,6 @@
 - 👋 Hi, I’m muguree.
 - 👀 I’m interested in girlsintech!
-- 🌱 I’m currently learning Software Engineering adn Data Science.
+- 🌱 I’m currently learning Software Engineering x Data Science.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me machariaivy84@gmail.com.
 
